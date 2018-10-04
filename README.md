@@ -1,5 +1,5 @@
 
-# SCRIPT MODIFICACIONES EN CONTENIDO (AUTOMÁTICO)
+# Script Modificación De Contenido (Automático)
 
 El script que se refleja, consiste en realizar modificaciones automáticas, en una página web estática generada con **"Jekyll"**, y desplegada en **"GitHub Pages"**
 
