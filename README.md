@@ -1,5 +1,5 @@
 
-### SCRIPT PARA GENERAR CAMBIOS EN PÁGINAS WEBS ESTÁTICAS JEKYLL AUTOMÁTICAMENTE
+# Script para generar cambios automáticos 
 
 <pre>
 jekyll build -d rinconbdt/
