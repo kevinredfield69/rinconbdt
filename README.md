@@ -1,5 +1,7 @@
 
-# SCRIPT 
+# SCRIPT MODIFICACIONES EN CONTENIDO (AUTOMÁTICO)
+
+El script que se refleja, consiste en realizar modificaciones automáticas, en una página web estática generada con **"Jekyll"**, y desplegada en **"GitHub Pages"**
 
 <pre>
 jekyll build -d rinconbdt/
