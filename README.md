@@ -12,4 +12,4 @@ git commit -am "$mensaje"
 git push origin gh-pages
 </pre>
 
-Link Página Web Estática: https://kevinredfield69.github.io/rinconbdt
+**Link Página Web Estática:** https://kevinredfield69.github.io/rinconbdt
