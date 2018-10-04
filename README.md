@@ -1,5 +1,5 @@
 
-# SCRIPT AUTOMATIZACIÓN DE CAMBIOS EN PÁGINA WEB RINCONBDT
+# SCRIPT 
 
 <pre>
 jekyll build -d rinconbdt/
